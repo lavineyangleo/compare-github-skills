@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub 多技能对比 v2"
+  short_description: "输入多个 GitHub 地址，自动下载技能仓库并按真实文件比较共同点与差异"
+  default_prompt: "请使用 $compare-github-skills-v2，下载我提供的多个 GitHub 技能仓库，只比较它们的共同点与差异，并附源码证据和下载位置。"
